@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Анастасия Филинова](https://up.htmlacademy.ru/javascript/15/user/122525).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Вагнер](https://github.com/vagsa2).
 
 ---
 
